@@ -1,2 +1,2 @@
-conda create -name --yes abc
+conda create --yes -n abc
 . activate abc
