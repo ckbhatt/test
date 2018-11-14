@@ -1,2 +1,2 @@
 conda create --yes -n abc
-. activate abc
+source activate abc
